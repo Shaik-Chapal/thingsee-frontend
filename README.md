@@ -16,11 +16,11 @@ Thingsee COUNT: Thingsee COUNT is an IoT sensor device capable of sensing moveme
 OpenWeatherMap, an online service under the ownership of OpenWeather Ltd, delivers worldwide weather information through its API. This includes up-to-date weather conditions, forecasts, nowcasts, and historical weather data.
 
 ### Haltian support
-• Sensor	
-• Gateways 
-• Documentation
-
-
+- **Sensors**
+- **Gateways**
+- **Certificates**
+- **Documentations**
+	
 
 ## Features
 - **Node.js API Integration**: Fetch machine data from a Node.js API.
@@ -50,7 +50,7 @@ OpenWeatherMap, an online service under the ownership of OpenWeather Ltd, delive
 ![trello](https://github.com/Shaik-Chapal/thingsee-frontend/assets/43337898/0444975a-cbc9-44b7-aea7-8da9d29b2e92)
 
 
-### Getting started
+# Getting started
 Clone the repository on a directory of your choice.
 
 
