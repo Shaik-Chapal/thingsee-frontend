@@ -30,6 +30,8 @@ OpenWeatherMap, an online service under the ownership of OpenWeather Ltd, delive
 ![features](https://github.com/Shaik-Chapal/thingsee-frontend/assets/43337898/89b89bcb-56ac-4f7b-b5b2-cdfd9be4c531)
 
 
+# HOMEPAGE
+
 ### Website View
 
 ![Homepage](https://github.com/Shaik-Chapal/Thingsee-Monitoring-System/assets/43337898/4654fcb8-2d61-4157-ada3-0e3c904a617e)
@@ -50,18 +52,18 @@ OpenWeatherMap, an online service under the ownership of OpenWeather Ltd, delive
 ![trello](https://github.com/Shaik-Chapal/thingsee-frontend/assets/43337898/0444975a-cbc9-44b7-aea7-8da9d29b2e92)
 
 
-# Getting started
+## Getting started
 Clone the repository on a directory of your choice.
 
 
-## Prerequisites
+### Prerequisites
 
 Before running the application, make sure you have the following installed:
 
 - Node.js and npm (Node Package Manager)
 - Git (optional)
 
-## Installation
+### Installation
 
 1. Clone the repository to your local machine (or download the ZIP file):
 2. git clone [https://github.com/your-username/thingsee-frontend.git](https://github.com/Shaik-Chapal/thingsee-frontend.git)
@@ -82,7 +84,7 @@ npm install
 
 
 
-## Configuration
+### Configuration
 
 Before running the application, you need to configure it:
 
@@ -94,7 +96,7 @@ Before running the application, you need to configure it:
 
  
 
-## Usage
+### Usage
 
 To run the Thingsee Frontend React.js app, use the following command:
 
@@ -104,12 +106,12 @@ npm run dev
 
 The application will start, and you can access it in your web browser at `http://localhost:3000`.
 
-## Charts
+### Charts
 
 - Line Chart: Click on the "View" tab to visualize historical machine data over time.
 - Bar Chart: Click on the "View" tab to view aggregated machine data.
 
-## Location
+### Location
 
 To view your current location. The location will be displayed on the HomePage.
 
