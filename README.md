@@ -1,6 +1,8 @@
 # Thingsee-Monitoring-System
 The Thingsee Sensor project, inspired by Haltian's IoT devices (Thingsee Air and Thingsee Count), utilizes an open weather API to enable precise air quality monitoring in various facilities. Integrating IoT devices, the application provides real-time data with advanced detection capabilities, ensuring accurate and up-to-the-minute air quality information. It seamlessly incorporates an outdoor weather API, offering users a holistic view of indoor air quality from Thingsee devices and external weather conditions.
 
+**Thingsee backend:** - [(Backend)](https://github.com/Shaik-Chapal/Thingsee-Monitoring-System)
+
 
 ## Acknowledgements
 
@@ -120,8 +122,9 @@ To view your current location. The location will be displayed on the HomePage.
 ## Contributors
 This project was developed by:
 
-- Shaik Chapal - [@Shaik-Chapal](https://github.com/Shaik-Chapal/thingsee-frontend.git)
-- Divine Kweche Ebechue - [@Shaik-Chapal](https://github.com/Shaik-Chapal/thingsee-frontend.git)
-- Manish Panthi - [@Shaik-Chapal](https://github.com/Shaik-Chapal/thingsee-frontend.git)
-- Purity Turunen - [@TurunenP](https://github.com/TurunenP/Thingsee-Monitoring-System.git)
+- Backend & Frontend - [@Shaik-Chapal](https://github.com/Shaik-Chapal)
+- Frontend - [@Kweche-Ebechue-Divine](https://github.com/Kweche-Ebechue-Divine)
+- Mobile application - [@mannizz65](https://github.com/mannizz65t)
+- Backend, Frontend & documentation - [@TurunenP](https://github.com/TurunenP/Thingsee-Monitoring-System.git)
+- https://github.com/TurunenP - [@TurunenP](https://github.com/TurunenP/Thingsee-Monitoring-System.git)
 
