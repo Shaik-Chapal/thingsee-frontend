@@ -6,14 +6,14 @@ The Thingsee Sensor project, inspired by Haltian's IoT devices (Thingsee Air and
 
 ## Acknowledgements
 
-- [Thingsee AIR: (Haltian)](https://haltian.com/product/thingsee-air/)
+- [Thingsee AIR: [Haltian](https://haltian.com/product/thingsee-air/)
 
 Thingsee AIR serves as a battery-operated wireless IoT sensor designed for monitoring indoor air quality. It tracks parameters such as Co², TVOC, temperature, barometric pressure, and humidity, offering a comprehensive view of both current air quality data and historical data.
 
-- [Thingsee COUNT: (Haltian)](https://haltian.com/product/thingsee-count-people-counter/)
+- [Thingsee COUNT: [Haltian](https://haltian.com/product/thingsee-count-people-counter/)
 
 Thingsee COUNT: Thingsee COUNT is an IoT sensor device capable of sensing movement beneath it and providing reports on the frequency and direction of detected movements.
-- [OpenWeatherMap: (Open weather)](https://openweathermap.org/)
+- [OpenWeatherMap: [Open weather](https://openweathermap.org/)
 
 OpenWeatherMap, an online service under the ownership of OpenWeather Ltd, delivers worldwide weather information through its API. This includes up-to-date weather conditions, forecasts, nowcasts, and historical weather data.
 
@@ -43,12 +43,15 @@ OpenWeatherMap, an online service under the ownership of OpenWeather Ltd, delive
 ![mobile](https://github.com/Shaik-Chapal/thingsee-frontend/assets/43337898/9f5e7767-947e-4e3c-b371-a121f658cf6a)
 
 
+## PRESENTATION VIDEO
+
+
 ## Project Management/Productivity Tools used
 
-**Code Editor:** - [(Visual Studio Code)](https://code.visualstudio.com/)
+**Code Editor:** - [Visual Studio Code](https://code.visualstudio.com/)
 
 
-**Project management and tool:**  - [(Trello)](https://trello.com/templates/project-management): Below;
+**Project management and tool:**  - [Trello](https://trello.com/templates/project-management): (Below):
 
 
 ![trello](https://github.com/Shaik-Chapal/thingsee-frontend/assets/43337898/0444975a-cbc9-44b7-aea7-8da9d29b2e92)
@@ -106,7 +109,7 @@ npm run dev
 
 
 
-The application will start, and you can access it in your web browser at `http://localhost:3000`.
+The application will start, and you can access it in your web browser at `http://localhost:3000`
 
 ### Charts
 
@@ -117,7 +120,8 @@ The application will start, and you can access it in your web browser at `http:/
  **Bar Chart:** Click on the "View" tab to view aggregated machine data.
 
 - ![barchart](https://github.com/Shaik-Chapal/thingsee-frontend/assets/43337898/3ddcae3b-82cd-4f88-b10e-bb4948a2310a)
-- 
+
+
 
 ### Location
 
@@ -128,7 +132,7 @@ To view your current location. The location will be displayed on the HomePage.
 ## Contributors
 This project was developed by:
 
-- [@Shaik-Chapal](https://github.com/Shaik-Chapal): Backend & Frontend 
-- [@Kweche-Ebechue-Divine](https://github.com/Kweche-Ebechue-Divine): Frontend 
+- [@Shaik-Chapal](https://github.com/Shaik-Chapal): Backend & Frontend
+- [@TurunenP](https://github.com/TurunenP): Backend, Frontend & documentation  
+- [@Kweche-Ebechue-Divine](https://github.com/Kweche-Ebechue-Divine): Frontend & Documentation
 - [@mannizz65](https://github.com/mannizz65t): Thingsee Mobile application 
-- [@TurunenP](https://github.com/TurunenP): Backend, Frontend & documentation 
