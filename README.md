@@ -1,7 +1,7 @@
 # Thingsee-Monitoring-System
 The Thingsee Sensor project, inspired by Haltian's IoT devices (Thingsee Air and Thingsee Count), utilizes an open weather API to enable precise air quality monitoring in various facilities. Integrating IoT devices, the application provides real-time data with advanced detection capabilities, ensuring accurate and up-to-the-minute air quality information. It seamlessly incorporates an outdoor weather API, offering users a holistic view of indoor air quality from Thingsee devices and external weather conditions.
 
-**Thingsee backend:** - [(Backend)](https://github.com/Shaik-Chapal/Thingsee-Monitoring-System)
+**Thingsee backend:** - [Backend](https://github.com/Shaik-Chapal/Thingsee-Monitoring-System)
 
 
 ## Acknowledgements
@@ -110,8 +110,14 @@ The application will start, and you can access it in your web browser at `http:/
 
 ### Charts
 
-- Line Chart: Click on the "View" tab to visualize historical machine data over time.
-- Bar Chart: Click on the "View" tab to view aggregated machine data.
+**Line Chart:** Click on the "View" tab to visualize historical machine data over time
+
+-![linechart](https://github.com/Shaik-Chapal/thingsee-frontend/assets/43337898/3211da20-8bac-444d-b133-f61f33210e79)
+
+ **Bar Chart:** Click on the "View" tab to view aggregated machine data.
+
+- ![barchart](https://github.com/Shaik-Chapal/thingsee-frontend/assets/43337898/3ddcae3b-82cd-4f88-b10e-bb4948a2310a)
+- 
 
 ### Location
 
@@ -122,9 +128,7 @@ To view your current location. The location will be displayed on the HomePage.
 ## Contributors
 This project was developed by:
 
-- Backend & Frontend - [@Shaik-Chapal](https://github.com/Shaik-Chapal)
-- Frontend - [@Kweche-Ebechue-Divine](https://github.com/Kweche-Ebechue-Divine)
-- Mobile application - [@mannizz65](https://github.com/mannizz65t)
-- Backend, Frontend & documentation - [@TurunenP](https://github.com/TurunenP/Thingsee-Monitoring-System.git)
-- https://github.com/TurunenP - [@TurunenP](https://github.com/TurunenP/Thingsee-Monitoring-System.git)
-
+- [@Shaik-Chapal](https://github.com/Shaik-Chapal): Backend & Frontend 
+- [@Kweche-Ebechue-Divine](https://github.com/Kweche-Ebechue-Divine): Frontend 
+- [@mannizz65](https://github.com/mannizz65t): Thingsee Mobile application 
+- [@TurunenP](https://github.com/TurunenP): Backend, Frontend & documentation 
