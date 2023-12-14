@@ -123,7 +123,7 @@ The application will start, and you can access it in your web browser at `http:/
 
 
 
-### Location
+- ### Location
 
 To view your current location. The location will be displayed on the HomePage.
 
