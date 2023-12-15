@@ -43,8 +43,12 @@ OpenWeatherMap, an online service under the ownership of OpenWeather Ltd, delive
 ![mobile](https://github.com/Shaik-Chapal/thingsee-frontend/assets/43337898/9f5e7767-947e-4e3c-b371-a121f658cf6a)
 
 
-## PRESENTATION VIDEO
-
+### Presentation Video
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=fIe96VqrMJI">
+    <img src="https://img.youtube.com/vi/fIe96VqrMJI/0.jpg" alt="YouTube Video" width="560" height="315">
+  </a>
+</p>
 
 ## Project Management/Productivity Tools used
 
